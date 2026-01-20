@@ -1,0 +1,6 @@
+[submodule "Assets/Submodules/C3AI-Unity-Toolkit"]
+	path = Assets/Submodules/C3AI-Unity-Toolkit
+	url = https://github.com/c3-carteregan/C3AI-Unity-Toolkit.git
+[submodule "Assets/Submodules/RamblrUnity"]
+	path = Assets/Submodules/RamblrUnity
+	url = https://github.com/c3-carteregan/RamblrUnity.git
